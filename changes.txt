@@ -1,0 +1,11 @@
+*Pixelbot version:* 12
+*Security update level:* March 2021
+
+*Useful*
+\- Added /adbL, /adbM, /adbW.
+\- Added /odin.
+
+*Joke*
+\- Added /kill.
+\- Fixed /google not working with ().
+\- Added more /punch and /slap strings.

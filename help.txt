@@ -1,0 +1,29 @@
+*USEFUL COMMANDS*
+/taptap \- link to Tap, Tap APK
+/blokada \- Blokada guide
+
+*JOKE COMMANDS*
+/eta \- gives a random ETA
+/ram \- uses patented technology to download RAM
+/rr \- rickroll link
+/sb \- "get stick bugged lol" link
+/searchurselfretard \- reply to someone to get a link to Google
+/google \- reply to someone to get a link to Google
+/slap \- slap someone
+/punch \- punch someone
+/kill \- kill someone the Minecraft way
+/hug \- hugs someone
+
+*OTHER COMMANDS*
+/help \- this list
+/credits \- see credits for various commands
+/source \- source code
+/suggest \- suggest a feature
+
+*ADMIN COMMANDS*
+/yeet \- kick a user
+/harderyeet \- ban a user
+/undotheyeet \- un\-ban a user
+/sexyundoyeet \- same as /undotheyeet but more sexy
+
+_See /credits for credits\._
